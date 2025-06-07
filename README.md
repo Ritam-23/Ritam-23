@@ -2,6 +2,10 @@
 <p align="center">CS student by chance, hacker by choice 🧠💻<br/>I speak Rust, JavaScript... and sometimes human.</p>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/Ritam-23" alt="Ritam-23" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ritam-23&label=Profile%20views&color=0e75b6&style=flat" alt="ritamkoley" />
 </p>
 
@@ -14,7 +18,7 @@
 - 🌱 Learning Rust, DevOps, and Offensive Security
 - 💬 Ask me about Rust, MySQL, UI Design, or Buffer Overflows
 - 📫 Contact: [koleyritam@gmail.com](mailto:koleyritam2005@gmail.com)
-- 📄 Resume: [Click Here]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://docs.google.com/document/d/14Gt23DQJXZ95U48I4XvKdDzTD4jEXQJ9/edit?usp=sharing&ouid=107321775102974110241&rtpof=true&sd=true))
+- 📄 Resume: [View on Google Drive](https://docs.google.com/document/d/14Gt23DQJXZ95U48I4XvKdDzTD4jEXQJ9/edit?usp=sharing)
 
 
 ---
